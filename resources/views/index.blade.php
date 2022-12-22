@@ -10,7 +10,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h3 class="card-title m-0 float-left">Students List</h3>
-                        <a href="students/create" class="btn btn-info float-right">Add New</a>
+                        <a href="students/create" class="btn btn-info float-right">Add New Student</a>
                     </div>
                     <div class="card-body">
                     @if(Session::has('status'))
