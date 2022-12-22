@@ -10,7 +10,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h3 class="card-title m-0 float-left">Add New</h3>
-                        <a href="/students" class="btn btn-info float-right">All Students</a>
+                        <a href="/students" class="btn btn-info float-right">All Students List</a>
                     </div>
                     <div class="card-body">
                     @if ($errors->any())
